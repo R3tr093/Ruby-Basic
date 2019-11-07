@@ -9,7 +9,7 @@ puts "#{newLine} #{string}  >>> My type is string. "
 
 integer = 2
 
-puts "#{newLine} #{integer }  >>> My type is string. My type is integer ! "
+puts "#{newLine} #{integer }  >>> My type is integer ! "
 
 
 array = ["This","is","an","Array"]
